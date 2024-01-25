@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{r5}
+Graphlib.
+\newblock \url{https://docs.python.org/3/library/graphlib.html/}.
+
+\bibitem{r3}
+GeeksforGeeks.
+\newblock Topological sorting.
+\newblock 2023.
+\newblock \url{https://www.geeksforgeeks.org/topological-sorting//}.
+
+\bibitem{r2}
+Arthur~B Kahn.
+\newblock Topological sorting of large networks.
+\newblock {\em Communications of the ACM}, 5(11):558--562, 1962.
+\newblock \url{https://doi.org/10.1145/368996.369025}.
+
+\bibitem{r4}
+Virtual Labs.
+\newblock Topological sorting time and space complexity.
+\newblock 2023.
+\newblock
+  \url{https://ds2-iiith.vlabs.ac.in/exp/topo-sort/analysis/time-and-space-complexity.html/}.
+
+\bibitem{r1}
+Steven~S Skiena.
+\newblock The algorithm design manual.
+\newblock pages 481--483, 2008.
+\newblock
+  \url{https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf}.
+
+\end{thebibliography}
